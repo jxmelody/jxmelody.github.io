@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: XIAOJin
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A student who is trying to connect the dots.
 twitter_username: username
-github_username: username
+github_username: jxmelody
 minimal_mistakes_skin: default
 search: true
 
@@ -58,9 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Jin Xiao"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Master student in Chinese University of Hong Kong. 
+Experience with AI-related application development and deployment.
+Experience coding in C++,  Python, Javascript, and Shell.
+A great passion for leveraging both traditional Machine Learning and Deep Learning to make products that benefits people’s daily life.
+"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,7 +72,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://jxmelody.github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -82,7 +84,7 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://jxmelody.github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
