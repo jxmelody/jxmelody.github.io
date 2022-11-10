@@ -90,6 +90,10 @@ footer:
       url: "https://instagram.com/"
 
 defaults:
+  - scope:
+      path: "assets/images/gan"
+    values:
+      image: true
   # _posts
   - scope:
       path: ""
