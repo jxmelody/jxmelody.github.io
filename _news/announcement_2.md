@@ -16,4 +16,4 @@ The rapid growth in the number of experimental and predicted protein structures 
 
 #### Availability:
 
-Database URL:  [https://proj.cse.cuhk.edu.hk/aihlab/pronet/](https://proj.cse.cuhk.edu.hk/aihlab/pronet/).
+<!-- Database URL:  [https://proj.cse.cuhk.edu.hk/aihlab/pronet/](https://proj.cse.cuhk.edu.hk/aihlab/pronet/). -->
