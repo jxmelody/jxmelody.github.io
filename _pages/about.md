@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'> Hong Kong Baptist University</a>. jmelody.xiao@gmail.com 
 profile:
