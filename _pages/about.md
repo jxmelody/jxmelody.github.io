@@ -2,15 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'> Hong Kong Baptist University</a>. jmelody.xiao@gmail.com 
+subtitle: <a href='https://www.hkbu.edu.hk/'> Hong Kong Baptist University</a>. 
 profile:
   align: right
   image: WechatIMG1448.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>DLB645</p>
-    <p>Shaw Campus, Hong Kong Baptist University. Kowloon Tong. </p>
-    <p>Hong Kong</p>
+    <p>csjxiao at comp.hkbu.edu.hk </p>
+    <p>DLB 645, Shaw Campus, Hong Kong Baptist University.</p>
+    <p>Kowloon Tong. Hong Kong </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,6 +21,9 @@ Jin is currently a PhD student at Hong Kong Baptist University (HKBU), majoring 
 Before embarking on her PhD journey, Jin obtained her master's degree from The Chinese University of Hong Kong (CUHK), where she was advised by [Dr. Li Yu](https://liyu95.com/). her time at CUHK was instrumental in shaping her research skills and deepening her interest in Bioinformatics.
 
 Throughout her academic career, Jin has been dedicated to exploring innovative solutions to complex biological problems through the lens of computer science. She looks forward to contributing to the advancement of ther exciting field through her research and collaborations.
+
+Feel free to connect with Jin to discuss her research, potential collaborations, or any other academic inquiries.
+
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
