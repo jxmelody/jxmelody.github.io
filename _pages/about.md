@@ -6,11 +6,9 @@ subtitle: <a href='https://www.hkbu.edu.hk/'> Hong Kong Baptist University</a>.
 profile:
   align: right
   image: WechatIMG1448.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>csjxiao at comp.hkbu.edu.hk </p>
-    <p>DLB 645, Shaw Campus, Hong Kong Baptist University.</p>
-    <p>Kowloon Tong. Hong Kong </p>
+    <p>csjxiao at comp.hkbu.edu.hk</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
