@@ -8,6 +8,7 @@ related_posts: false
 Pangaea got published on Nature Communication! 
 
 ---
+
 [Full text](https://www.nature.com/articles/s41467-024-49060-z#Abs1)
 
 #### Abstract
