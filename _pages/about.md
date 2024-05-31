@@ -2,24 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='#'> Hong Kong Baptist University</a>. jmelody.xiao@gmail.com 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: WechatIMG1448.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>DLB645</p>
+    <p>Shaw Campus, Hong Kong Baptist University. Kowloon Tong. </p>
+    <p>Hong Kong</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Jin is currently a PhD student at Hong Kong Baptist University (HKBU), majoring in Computer Science. Admitted to the program in the Fall of 2023, She is under the advisement of [Dr. Zhang Lu Eric](https://www.comp.hkbu.edu.hk/~ericluzhang/). Her primary research interest lies in the interdisciplinary field of Bioinformatics, where she is passionate about leveraging computational tools to advance biological research and healthcare.
 
+Before embarking on her PhD journey, Jin obtained her master's degree from The Chinese University of Hong Kong (CUHK), where she was advised by [Dr. Li Yu](https://liyu95.com/). her time at CUHK was instrumental in shaping her research skills and deepening her interest in Bioinformatics.
+
+Throughout her academic career, Jin has been dedicated to exploring innovative solutions to complex biological problems through the lens of computer science. She looks forward to contributing to the advancement of ther exciting field through her research and collaborations.
+
+<!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. Ther theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
