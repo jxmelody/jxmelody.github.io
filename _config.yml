@@ -111,7 +111,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Contact me by sending me an email at <a href="mailto:{{ jmelody.xiao@gmail.com }}">jmelody.xiao@gmail.com</a>.
+  Contact me by dropping an email to <a href="mailto:{{ jmelody.xiao@gmail.com }}">jmelody.xiao@gmail.com</a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

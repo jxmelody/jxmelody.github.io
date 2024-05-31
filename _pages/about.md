@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.hkbu.edu.hk/'> Hong Kong Baptist University</a>. 
+subtitle: <a href='https://www.hkbu.edu.hk/'> Hong Kong Baptist University</a> | <a href='https://www.comp.hkbu.edu.hk/~ericluzhang/'> Eric's Lab </a>
 profile:
   align: right
   image: WechatIMG1448.jpg
@@ -14,6 +14,8 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+## Short Bio
+
 Jin is currently a PhD student at Hong Kong Baptist University (HKBU), majoring in Computer Science. Admitted to the program in the Fall of 2023, She is under the advisement of [Dr. Zhang Lu Eric](https://www.comp.hkbu.edu.hk/~ericluzhang/). Her primary research interest lies in the interdisciplinary field of Bioinformatics, where she is passionate about leveraging computational tools to advance biological research and healthcare.
 
 Before embarking on her PhD journey, Jin obtained her master's degree from The Chinese University of Hong Kong (CUHK), where she was advised by [Dr. Li Yu](https://liyu95.com/). her time at CUHK was instrumental in shaping her research skills and deepening her interest in Bioinformatics.
@@ -22,7 +24,8 @@ Throughout her academic career, Jin has been dedicated to exploring innovative s
 
 Feel free to connect with Jin to discuss her research, potential collaborations, or any other academic inquiries.
 
-Book a short meeting with me: [Booking](https://outlook.office.com/bookwithme/user/5a95623cbd3e4aec9518ddacc5735c97@life.hkbu.edu.hk?anonymous&ep=plink)
+## Booking
+Book a short meeting: [Booking](https://outlook.office.com/bookwithme/user/5a95623cbd3e4aec9518ddacc5735c97@life.hkbu.edu.hk?anonymous&ep=plink)
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
