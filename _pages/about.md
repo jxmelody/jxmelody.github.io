@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.hkbu.edu.hk/'> Hong Kong Baptist University</a> | <a href='https://www.comp.hkbu.edu.hk/~ericluzhang/'> Eric's Lab </a>
 profile:
   align: right
-  image: WechatIMG1448.jpg
+  image: headshot_2024.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>csjxiao at comp.hkbu.edu.hk</p>
